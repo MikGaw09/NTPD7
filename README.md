@@ -26,3 +26,13 @@ Zadanie polegało na zainstalowaniu biblioteki evidently oraz stworzeniu raportu
 
 ## Tworzenie oraz zapis raportu
 <img width="857" height="250" alt="image" src="https://github.com/user-attachments/assets/7692612f-c6f6-48b2-9990-987fe22c6f8e" />
+
+## Dashboard z wynikami
+<img width="1824" height="673" alt="image" src="https://github.com/user-attachments/assets/51651cf3-dd00-4ed0-b831-ea77e0f39362" />
+
+## Wykres driftu z cechy
+Na zrzucie jest widoczny wykres Data Drift z cechy "feature_1". Zielony prostokąt obrazuje zakres z wartości treningowych o szerokości jednego odchylenia standardowego. Czerwona linia jest wartością średnią z kolejnych danych produkcyjnych a czerwone tło to wartości pojedynczych cech. Na zrzucie zauważalne jest wykroczenie obydwu czerwonych wskaźników poza zielony prostokąt co wskazuje na data drift między zbiorami.
+<img width="1588" height="458" alt="image" src="https://github.com/user-attachments/assets/ee8a8c40-6718-41c5-91d3-c3103ab1181d" />
+
+# Zadanie 3
+
