@@ -19,5 +19,10 @@ Końcowym etapem zadania pierwszego jest analiza danych. Do analizy wykorzystał
 ## Dane Produkcyjne
 <img width="697" height="817" alt="image" src="https://github.com/user-attachments/assets/d0c4c2bd-2c15-4de0-9900-0fd603899f98" />
 
-# instalacja evidently 
+# Zadanie 2
+Zadanie polegało na zainstalowaniu biblioteki evidently oraz stworzeniu raportu "Data Drift". Przy tworzeniu tego raportu natknąłem się na problem związany z wersjami biblioteki. W najnowszych wersjach rozmieszczenie pakietów tej biblioteki jest zupełnie inne niż w wersji 0.2 (z której dokumentacji korzystałem). W tej wersji również metoda do zapisywania raportu wymaga utworzenia jego snapshota. Z raportu wynika, że drift został zauważony w połowie z cech. 
+## Instalacja
 <img width="226" height="61" alt="image" src="https://github.com/user-attachments/assets/22e34b6e-3c6b-4238-aa9a-e4f064cd5f4d" />
+
+## Tworzenie oraz zapis raportu
+<img width="857" height="250" alt="image" src="https://github.com/user-attachments/assets/7692612f-c6f6-48b2-9990-987fe22c6f8e" />
