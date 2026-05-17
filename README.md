@@ -37,6 +37,7 @@ Na zrzucie jest widoczny wykres Data Drift z cechy "feature_1". Zielony prostok�
 # Zadanie 3
 Utworzono raport z predykcji na danych treningowych oraz produkcyjnych. Z wyników widoczny jest duży spadek w jakości predyckji pomiędzy zbiorami. Model został przeuczony. Spowodowało to bardzo słabe wyniki predykcji na danych z produkcji. Wcześniejszy wynik raportu wskazywał na datadrift. Mogło się to przełożyc na wynik predykcji ponieważ model nie jest przyzwyczajony do tak odbiegających od norm danych (concept drift). Aby naprawić aktualny stan modelu należało by zastosować retraining modelu ze zmienionym zbiorem treningowym np. Wmieszać w dane treningowe pewną ilość danych z produkcji.
 <img width="711" height="477" alt="image" src="https://github.com/user-attachments/assets/5ad351cb-03c2-4aa0-b125-8389c2fdaaa4" />
+<img width="900" height="442" alt="image" src="https://github.com/user-attachments/assets/a522f26e-d20c-443f-aa71-3f5d350913c8" />
 
 
 
